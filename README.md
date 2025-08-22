@@ -41,9 +41,9 @@ A Python-based framework for experimenting with advanced text compression techni
    ```
 
 4. Environment setup:
-   Copy `.env.example` to `.env`:
+   Copy `.env` to `.env`:
    ```
-   cp .env.example .env
+   cp .env
    ```
    
    Add your Gemini API key:
@@ -120,7 +120,7 @@ ai-text-compression-suite/
 
 ## Requirements
 
-- Python 3.9+
+- Python 3.10+
 - Google Gemini API key
 - Internet connection
 - Sample document (document.txt included)
@@ -148,11 +148,3 @@ ai-text-compression-suite/
 - Google Gemini API
 - Natural Language Processing techniques
 
-## License
-
-MIT License – Feel free to use, modify, and distribute with attribution.
-
-## Author
-
-Developed by: [Your Name]
-GitHub: https://github.com/<your-username>
